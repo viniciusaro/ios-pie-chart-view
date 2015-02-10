@@ -221,3 +221,27 @@ Most of the properties are mnemonic and pretty straightforward to be used. Custo
 - (void)animate;
 ```
 
+## Installation
+
+Add all files from the src folder to your project
+Import as usual: #import "MCPieChartView.h"
+Add QuartzCore.framework to your project
+
+## Setup
+
+MCPieChartView can be added to your view either from the Interface Builder or through code.
+
+### Interface Builder (Xcode 5):
+
+* Open the Storyboard or Xib file you want to add the pie chart to.
+* Drag a new UIView from the Object Library into your view controller.
+* Resize and position your new UIView as you wish (the pie chart will be drawn on the center of the new UIView).
+* Make sure the new UIView is selected and choose the Identity Inspector tab on Xcode's the Utilities view (on the right).
+* Change the class from UIView to MCPieChartView.
+* On the view controller's header file create an IBOutlet property of the type MCPieChartView and link it to the object you created on the Interface Builder.
+
+### Through Code:
+
+```
+CGRect frame = CGRectMake(x, y, width, height); MCPieChartView *pieChart = [[MCPieChartView alloc] initWithFrame:frame]; [self.view addSubview:pieChart];
+```
