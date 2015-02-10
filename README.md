@@ -5,7 +5,7 @@ Demo video: https://www.youtube.com/watch?v=J5TSjRZNefU
 
 More info at: http://myappcontrols.binpress.com/product/ios-pie-chart/2119
 
-![alt tag](http://myappcontrols.binpress.com/images/stores/store30934/captura-de-tela-2014-01-31-às-12.37.53-pm.png)
+![alt tag](http://myappcontrols.binpress.com/images/stores/store30934/piechart10.png)
 
 ## Installation
 
