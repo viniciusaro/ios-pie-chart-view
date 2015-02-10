@@ -7,7 +7,7 @@ More info at: http://myappcontrols.binpress.com/product/ios-pie-chart/2119
 
 ![alt tag](http://myappcontrols.binpress.com/images/stores/store30934/piechart10.png)
  
- ## Installation
+## Installation
  
  Add all files from the src folder to your project
 -Import as usual: #import "MCPieChartView.h"
