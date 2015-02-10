@@ -5,7 +5,7 @@ The iOS Pie Chart is a great tool to present information in the form of a pie ch
 Most of the properties are mnemonic and pretty straightforward to be used. Custom types can be easily explored on the interface files provided. 
 
 **Main properties and methods**
-
+```
 @protocol MCPieChartViewDataSource <NSObject>
 
 @required
@@ -211,5 +211,5 @@ Most of the properties are mnemonic and pretty straightforward to be used. Custo
  Animates the control
  */
 - (void)animate;
-
+```
 
