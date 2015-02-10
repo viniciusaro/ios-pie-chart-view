@@ -35,6 +35,19 @@ MCPieChartView *pieChart = [[MCPieChartView alloc] initWithFrame:frame];
 [self.view addSubview:pieChart];
 ```
 
+## Example Usage
+```
+self.pieChartView.dataSource = self;
+self.pieChartView.delegate = self;
+self.pieChartView.animationDuration = 0.5;
+self.pieChartView.sliceColor = [MCUtil flatWetAsphaltColor];
+self.pieChartView.borderColor = [MCUtil flatSunFlowerColor];
+self.pieChartView.selectedSliceColor = [MCUtil flatSunFlowerColor];
+self.pieChartView.textColor = [MCUtil flatSunFlowerColor];
+self.pieChartView.selectedTextColor = [MCUtil flatWetAsphaltColor];
+self.pieChartView.borderPercentage = 0.01;
+```
+
 ## Documentation
 
 Most of the properties are mnemonic and pretty straightforward to be used. Custom types can be easily explored on the interface files provided. 
