@@ -1,5 +1,5 @@
 # iOS Pie Chart View
-The iOS Pie Chart is a great tool to present information in the form of a pie chart. The default appearance conforms to the iOS 7 flat design It has built in animation features for presenting, inserting, deleting and updating actions and it is fully customisable, being able to change colors, label text, font, all through properties attributes and delegate methods. The content is managed by a data source object following the built in Apple controls standards. 
+The iOS Pie Chart is a great tool to present information in the form of a pie chart. The default appearance conforms to the iOS 7 flat design It has built in animation features for presenting, inserting, deleting and updating actions and it is fully customisable, accepting color changes, text and font customisation. All through properties attributes and delegate methods. The content is managed by a data source object following the built in Apple controls standards. 
 
 Demo video: https://www.youtube.com/watch?v=J5TSjRZNefU
 
