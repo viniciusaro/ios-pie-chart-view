@@ -5,6 +5,9 @@ Demo video: https://www.youtube.com/watch?v=J5TSjRZNefU
 
 More info at: http://myappcontrols.binpress.com/product/ios-pie-chart/2119
 
+![alt tag](http://myappcontrols.binpress.com/images/stores/store30934/piechart10.png)
+![alt tag](http://myappcontrols.binpress.com/images/stores/store30934/piechart11.png)
+
 ## Documentation
 
 Most of the properties are mnemonic and pretty straightforward to be used. Custom types can be easily explored on the interface files provided. 
