@@ -50,3 +50,11 @@ self.pieChartView.borderPercentage = 0.01;
 
 ## Credits
 Brought to you by [MyAppControls](http://www.binpress.com/profile/myappcontrols/30934) team.
+
+## Similar Projects
+
+[iOS Bar Chart](https://github.com/vinicius-a-ro/ios-bar-chart-view)
+
+[iOS Circular Progress Bar](https://github.com/vinicius-a-ro/ios-circular-progress-bar)
+
+[iOS Simple Color Picker](https://github.com/vinicius-a-ro/ios-color-picker)
