@@ -9,10 +9,23 @@ More info at: http://myappcontrols.binpress.com/product/ios-pie-chart/2119
  
 ## Installation
  
- Add all files from the src folder to your project
--Import as usual: #import "MCPieChartView.h"
-+Import as usual: #import "MCColorPicker.h"
- Add QuartzCore.framework to your project
+ * Objective-C
+  * Add all files from the src folder to your project
+  * Import as usual: #import "MCPieChartView.h"
+  * Import as usual: #import "MCColorPicker.h"
+  * Add QuartzCore.framework to your project
+ 
+ * Swift
+  * Add all files from the src folder to your project
+  * Press YES when Xcode asks to build the Bridging-Header file
+  * Import the MCPieChartView.h on the Bridging-Header file
+  ```
+//
+//  Use this file to import your target's public headers that you would like to expose to Swift.
+//
+
+#import "MCPieChartView.h"
+  ```
  
 ## Setup
  
