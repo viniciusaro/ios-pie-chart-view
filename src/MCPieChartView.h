@@ -6,7 +6,7 @@
 //  Copyright (c) 2013 MyAppControls. All rights reserved.
 //
 
-#import <MCCore/MCCore.h>
+#import "MCCore.h"
 
 @class MCPieChartView;
 

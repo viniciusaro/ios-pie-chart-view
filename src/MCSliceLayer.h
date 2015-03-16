@@ -6,8 +6,8 @@
 //  Copyright (c) 2013 MyAppControls. All rights reserved.
 //
 
-#import <MCCore/MCUtil.h>
-#import <MCCore/MCNewCustomLayer.h>
+#import "MCUtil.h"
+#import "MCNewCustomLayer.h"
 
 @protocol MCSliceLayerDelegate <NSObject>
 

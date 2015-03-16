@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 MyAppControls. All rights reserved.
 //
 
-#import <MCCore/MCCore.h>
+#import "MCCore.h"
 #import <UIKit/UIGestureRecognizerSubclass.h>
 
 /*

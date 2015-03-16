@@ -7,7 +7,7 @@
 //
 
 #import "MCPieChartView.h"
-#import <MCCore/MCNewCustomLayeredView+MCCustomLayeredViewSubclass.h>
+#import "MCNewCustomLayeredView+MCCustomLayeredViewSubclass.h"
 
 #define LINE_PERCENTAGE 1
 
